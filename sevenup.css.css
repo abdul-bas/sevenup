@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+}.top-im{
+ height:120px;
+ width: 20%;
+ background-color: rgb(0,174,68);
+
+ 
+ 
+ 
+}
+.im{
+    height: 60%;
+    margin: 30px;
+}
+.top{
+    height:120px;
+    width: 100vw; 
+    background-color: rgb(0,174,68);
+    border-bottom:2px solid;
+    border-color: white;
+    display: grid;
+    grid-template-columns: 200px 1020px 100px;
+    position:fixed;
+    }
+
+.top-w{
+   
+    background-color: rgb(0,174,68);
+    
+    padding-top:50px ;
+    padding-left: 640px;
+    font-size: 21px;
+    color: white;
+    font-family: sans-serif;
+    
+
+}
+.top-w ul{
+    display:flex;
+    list-style: none;
+}
+.top-w ul li a{
+    color: #fff;
+    padding-left: 10px;
+    text-decoration: none;
+   
+}
+
+
+.im-main{
+    display:flex;
+    
+}
+.im1{
+    height:30px;
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 70px;
+    
+}
+.im2{
+    height:30px;
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 5px;
+    
+}
+.im3{
+    height:30px;
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 5px;
+    
+}
+.im4{
+    height:30px;
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 5px;
+    
+}
+.im5{
+    height:30px;
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 5px;
+    
+}
+.im6{
+    height:30px;
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 5px;
+    
+}
+.mim{
+    height: 1000px;
+    width: 100%;
+    float:left;
+    
+}
+.midle1{
+
+width:100vm;
+height:500px;
+background-image: url(.f1.webp);
+background-size: cover;
+padding-top: 300px;
+padding-left: 150px;
+font-weight:  5000px;
+font-family:Uniform RoundedMiller;
+color: #fff;
+font-size: 40px;
+
+
+}
+.for-space{
+    width: 100vw;
+    height: 120px;
+    
+}
+.b{
+    border: -1px;
+    border-color: white;
+    background-color: transparent;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+     gap: 1000px;
+}
+.midle2{
+   background-image: url(.midle2.png);
+   width:100vw;
+   height:400px;
+   background-repeat: no-repeat;
+   display:flex;
+   flex-direction:row;
+   justify-content: center;
+   padding-top: 220px;
+   background-position: center;
+   background-size: cover;
+}
+.b-2{
+    height: 200px;
+    width: 600px;
+    background-color: rgba(10, 91, 43, 0.8);
+    
+    background-position:bottom;
+    border-radius: 100px;
+    text-align: center;
+    padding-top: 10px;
+    font-size:20px;
+    color: #fff;
+    font-weight: 1px;
+    word-spacing: 3px;
+    padding-top: 20px;
+    margin-top: 250px;
+    
+    
+    
+}
+.midle3{
+    background-image: url(.midle3.webp);
+    height:650px;
+    width:100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-size:cover;
+    
+}
+.button2{
+    height: 200px;
+    width: 600px;
+    background-color:rgba(10, 91, 43, 0.8);
+    margin-top:220px;
+    border-radius: 100px;
+    text-align: center;
+    
+}
+.bottom{
+    width: 100vw;
+    height:120px;
+    background-color:#3e3e3e;
+    
+    
+
+}
+.bottom1{
+    display: flex;
+    font-size:7px;    
+    justify-content: center;
+    gap: 18px;
+    padding-top: 10px;
+    font-weight: 100px;
+    color: #fff;
+}
+.bottom2{
+    text-align: center;
+    font-size: 5.3px;
+    padding: 25px;
+    color: #fff;
+}
+.button h1 {
+    padding-bottom: 20px;
+}
+.button h3{
+    padding-top: 1000px;
+}
+.w3{
+    padding-top: 20px;
+    font-weight: 10;
+    font-size: 15px;
+}
+.b-3{
+    height: 200px;
+    width: 600px;
+    background-color: rgba(10, 91, 43, 0.8);
+    
+    background-position:bottom;
+    border-radius: 100px;
+    text-align: center;
+    padding-top: 10px;
+    font-size:20px;
+    color: #fff;
+    font-weight: 1px;
+    word-spacing: 3px;
+    padding-top: 20px; 
+}
+.w-2{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 10;
+    font-size: 15px;
+}
+.bt{
+    margin-top: 20px;
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+    
+}
+.bt-1{
+    margin-top: 20px;
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+    
+}
+
+
